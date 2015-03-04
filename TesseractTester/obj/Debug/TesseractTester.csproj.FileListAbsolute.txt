@@ -1,0 +1,12 @@
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\TesseractTester\TesseractTester\bin\Debug\TesseractTester.exe.config
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\TesseractTester\TesseractTester\obj\Debug\TesseractTester.csprojResolveAssemblyReference.cache
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\TesseractTester\TesseractTester\bin\Debug\x64\liblept168.dll
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\TesseractTester\TesseractTester\bin\Debug\x64\libtesseract302.dll
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\TesseractTester\TesseractTester\bin\Debug\x86\liblept168.dll
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\TesseractTester\TesseractTester\bin\Debug\x86\libtesseract302.dll
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\TesseractTester\TesseractTester\bin\Debug\TesseractTester.exe
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\TesseractTester\TesseractTester\bin\Debug\TesseractTester.pdb
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\TesseractTester\TesseractTester\bin\Debug\Tesseract.dll
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\TesseractTester\TesseractTester\bin\Debug\Tesseract.xml
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\TesseractTester\TesseractTester\obj\Debug\TesseractTester.exe
+c:\users\bmccauley.pci\documents\visual studio 2013\Projects\TesseractTester\TesseractTester\obj\Debug\TesseractTester.pdb
